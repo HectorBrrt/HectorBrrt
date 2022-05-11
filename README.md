@@ -8,6 +8,4 @@
 
 💞️ I'm looking to collaborate on my college projects
 
-📫 How to reach me on my email: contatoheitorbarreto@hotmail.com
-
-
+📫 Reach me through my email: contatoheitorbarreto@hotmail.com
