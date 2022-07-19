@@ -1,10 +1,8 @@
-👋 Hi, I’m Heitor Barreto
+👋 Hi, I’m Heitor
 
 👀 I’m interested in Programming
 
-🌱 I’m currently learning C and Python
-
-💞️ I'm looking to collaborate on my college projects
+🌱 I’m currently learning C, Java and Python
 
 📫 Reach me through my email: contatoheitorbarreto@hotmail.com
 
@@ -14,6 +12,8 @@
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorBrrt&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Hector-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Hector-C" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Hector-Python" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Hector-C" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Hector-Java" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+
   </div>
