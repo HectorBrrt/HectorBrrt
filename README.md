@@ -13,8 +13,8 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Hector-Python" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
   <img align="center" alt="Hector-C" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Hector-Java" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-
- </div>
+  <img align="center" alt="Hector-Python" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  </div>
