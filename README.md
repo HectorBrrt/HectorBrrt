@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning C, Java and Python
 
-📫 Reach me through my email: contatoheitorbarreto@hotmail.com
+📫 Reach me through my email: heitorbarretocontato@hotmail.com
 
 <div align="left">
   <a href="https://github.com/HectorBrrt/">
