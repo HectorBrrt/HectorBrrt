@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Heitor</h1>
-<h3 align="center">I'm a Bachelor's student in computer science</h3>
+<h3 align="center">I'm a Student in Bachelor of Computer Science</h3>
+
 <p align="center">
 🔭 Iam currently learning C, Java and Python
 </p>
