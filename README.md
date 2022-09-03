@@ -4,9 +4,11 @@
 <p align="center">
 🔭 Iam currently learning C, Java and Python
 </p>
+
 <p align="center">
 📫 Reach me through my email: heitorbarretocontato@hotmail.com
 </p>
+
 <div align="center">
   <a href="https://github.com/HectorBrrt/">
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=HectorBrrt&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
