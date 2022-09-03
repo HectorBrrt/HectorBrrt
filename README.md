@@ -21,7 +21,3 @@
   <img align="center" alt="Hector-postgreSQL" height="45" width="50"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/>
   <img align="center" alt="Hector-Python" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 </div>
-
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=HectorBrrt&theme=gotham&date_format=M%20j%5B%2C%20Y%5D"/></a>
-</p>
