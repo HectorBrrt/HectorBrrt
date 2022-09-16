@@ -9,7 +9,6 @@
 📫 Reach me through my email: heitorbarretocontato@hotmail.com
 </p>
 
-
 <div align="center">
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=HectorBrrt&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorBrrt&layout=compact&langs_count=7&theme=gotham"/>
