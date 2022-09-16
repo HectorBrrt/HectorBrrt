@@ -14,7 +14,6 @@
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorBrrt&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
-
 <div align="center">
   <img align="center" alt="Hector-C" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Hector-Java" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
