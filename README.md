@@ -22,4 +22,3 @@
 </div>
 
 ![snake gif](https://github.com/HectorBrrt/Hectorbrrt/blob/output/github-contribution-grid-snake.svg)
-
